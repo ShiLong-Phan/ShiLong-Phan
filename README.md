@@ -6,9 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 - 🔭 I’m currently working on various exciting projects
 - 🌱 I’m constantly learning and expanding my knowledge in different programming languages and technologies
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about anything related to software development
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [phantasmlied@gmail.com]
 - ⚡ Fun fact: I enjoy exploring new technologies and applying them to solve real-world problems
 
 ## My GitHub Stats
