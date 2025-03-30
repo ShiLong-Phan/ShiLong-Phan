@@ -27,14 +27,13 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 Here are a few projects I've worked on:
 
-- [Project 1](https://github.com/ShiLong-Phan/project1): Brief description of project 1
-- [Project 2](https://github.com/ShiLong-Phan/project2): Brief description of project 2
-- [Project 3](https://github.com/ShiLong-Phan/project3): Brief description of project 3
+- [Project 1]([https://github.com/ShiLong-Phan/project1](https://github.com/ShiLong-Phan/INF2007-HealthTracker)): A health tracker using kotlin which includes tracking of calories, steps taken and meal recommendations
+- [Project 2]([https://github.com/ShiLong-Phan/project2](https://github.com/ShiLong-Phan/CPU-Scheduling-Algorithms-Based-on-Papers)): School Project on simulating a scheduler within an operating system based off various algorithms proposed by papers
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React, Node.js
+- Programming Languages: Python, Java, C, Dart, PHP
+- Web Development: HTML, CSS, 
 - Databases: MySQL, MongoDB
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about technology!
