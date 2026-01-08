@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## About Me
 
-- 🔭 I’m currently working on various exciting projects
 - 🌱 I’m constantly learning and expanding my knowledge in different programming languages and technologies
-- 📫 How to reach me: [phantasmlied@gmail.com]
+- 📫 How to reach me: [shilong.huang02@gmail.com]
 - ⚡ Fun fact: I enjoy exploring new technologies and applying them to solve real-world problems
 
 ## My GitHub Stats
