@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiLong-Phan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShiLong-Phan&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiLong-Phan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiLong-Phan&layout=compact&theme=radical&langs_count=8&hide_progress=true&cache_seconds=1800)
 
 ## Connect with Me
 
